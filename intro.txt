@@ -1,0 +1,15 @@
+on linux -->
+yum install python
+
+python filename
+
+
+variables rule 
+.should not start with number
+. No space
+. No special character
+. Dont't use predefine or keywords
+
+
+
+python is strongly typed language
